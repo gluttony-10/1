@@ -1,4 +1,4 @@
 # 云端库
-GLM-ChatGLM+lora
-SD-SD-WEBUI
-VITS-VITS-fine-tuning
+GLM-ChatGLM+lora \n
+SD-SD-WEBUI \n
+VITS-VITS-fine-tuning \n
