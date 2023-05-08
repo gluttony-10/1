@@ -1,0 +1,22 @@
+https://huggingface.co/Gluttony10/SD/resolve/main/chilloutmix-Ni.safetensors
+ dir=/mnt/workspace/stable-diffusion-webui/models/Stable-diffusion
+https://huggingface.co/Gluttony10/SD/resolve/main/fox20_fox20.ckpt
+ dir=/mnt/workspace/stable-diffusion-webui/models/Stable-diffusion
+https://huggingface.co/Gluttony10/SD/resolve/main/vae-ft-mse-840000-ema-pruned.vae.ckpt
+ dir=/mnt/workspace/stable-diffusion-webui/models/Stable-diffusion
+https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.5-pruned-fp16.ckpt
+ dir=/mnt/workspace/stable-diffusion-webui/models/Stable-diffusion
+https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth
+ dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
+https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth
+ dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
+https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.pth
+ dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
+https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.pth
+ dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
+https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth
+ dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
+https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg.pth
+ dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
+https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime.pth
+ dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
