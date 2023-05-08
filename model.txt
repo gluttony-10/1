@@ -1,3 +1,6 @@
+https://huggingface.co/chenxluo/QteaMix/resolve/main/QteaMix-fp16.safetensors
+ dir=/mnt/workspace/stable-diffusion-webui/models/Stable-diffusion
+ out=QteaMix-fp16.safetensors
 https://huggingface.co/Gluttony10/SD/resolve/main/chilloutmix-Ni.safetensors
  dir=/mnt/workspace/stable-diffusion-webui/models/Stable-diffusion
  out=chilloutmix-Ni.safetensors
