@@ -15,7 +15,7 @@ https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.5-pruned-fp
  out=anything-v4.5-pruned-fp16.ckpt
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth
  dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
- out=ontrol_v11f1e_sd15_tile.pth
+ out=control_v11f1e_sd15_tile.pth
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth
  dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
  out=control_v11f1p_sd15_depth.pth
