@@ -37,3 +37,12 @@ https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15
 https://ghproxy.com/https://github.com/AUTOMATIC1111/TorchDeepDanbooru/releases/download/v1/model-resnet_custom_v3.pt
  dir=/mnt/workspace/stable-diffusion-webui/models/torch_deepdanbooru/
  out=model-resnet_custom_v3.pt
+https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p.pth
+ dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
+ out=control_v11e_sd15_ip2p.pth
+https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint.pth
+ dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
+ out=control_v11p_sd15_inpaint.pth
+https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle.pth
+ dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
+ out=control_v11e_sd15_shuffle.pth
