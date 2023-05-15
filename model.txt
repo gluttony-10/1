@@ -46,3 +46,12 @@ https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle.pth
  dir=/mnt/workspace/stable-diffusion-webui/models/ControlNet
  out=control_v11e_sd15_shuffle.pth
+https://huggingface.co/Gluttony10/SD/resolve/main/badhandv4.pt
+ dir=/mnt/workspace/stable-diffusion-webui/embeddings
+ out=badhandv4.pt
+https://huggingface.co/Gluttony10/SD/resolve/main/easynegative.safetensors
+ dir=/mnt/workspace/stable-diffusion-webui/embeddings
+ out=easynegative.safetensors
+https://huggingface.co/Gluttony10/SD/resolve/main/verybadimagenegative_v1.3.pt
+ dir=/mnt/workspace/stable-diffusion-webui/embeddings
+ out=verybadimagenegative_v1.3.pt
