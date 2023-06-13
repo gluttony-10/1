@@ -1,8 +1,4 @@
-# 云端库
+# 自用库
 
-GLM-ChatGLM+lora 
 
-SD-SD-WEBUI 
-
-VITS-VITS-fine-tuning 
 
