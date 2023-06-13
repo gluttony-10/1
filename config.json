@@ -9,7 +9,7 @@
     "grid_only_if_multiple": true,
     "grid_prevent_empty_spots": false,
     "n_rows": -1,
-    "enable_pnginfo": true,
+    "enable_pnginfo": false,
     "save_txt": false,
     "save_images_before_face_restoration": false,
     "save_images_before_highres_fix": false,
@@ -62,7 +62,7 @@
     "training_enable_tensorboard": false,
     "training_tensorboard_save_images": false,
     "training_tensorboard_flush_every": 120,
-    "sd_model_checkpoint": "FEIWUmix-2.5D.safetensors [27859a3327]",
+    "sd_model_checkpoint": "feiwumix_v10Slightflat.safetensors [6505688a22]",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
     "sd_vae": "Automatic",
@@ -135,7 +135,7 @@
     "postprocessing_operation_order": [],
     "upscaling_max_images_in_cache": 5,
     "disabled_extensions": [],
-    "sd_checkpoint_hash": "27859a332726e15bbe91b758e9d05e5e9fb881d9bdbbc85feff42507d5d23022",
+    "sd_checkpoint_hash": "6505688a227221c7ebec3e49bbfa1e5b876fc7d6a03a7463fc70ccf90f3d0f6c",
     "ldsr_steps": 100,
     "ldsr_cached": false,
     "SWIN_tile": 192,
@@ -280,5 +280,7 @@
     "hires_fix_show_prompts": false,
     "live_previews_image_format": "png",
     "tac_refreshTempFiles": "Refresh TAC temp files",
-    "controlnet_disable_control_type": false
+    "controlnet_disable_control_type": false,
+    "controlnet_disable_openpose_edit": false,
+    "image_browser_info_add": false
 }
