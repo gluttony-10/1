@@ -234,7 +234,7 @@
     "s_min_uncond": 0,
     "tac_useLycos": true,
     "tac_chantFile": "demo-chants.json",
-    "control_net_modules_path": "models/annotator",
+    "control_net_modules_path": "",
     "controlnet_show_batch_images_in_ui": false,
     "controlnet_increment_seed_during_batch": false,
     "image_browser_active_tabs": "txt2img, img2img, txt2img-grids, img2img-grids, Extras, Favorites, Others",
