@@ -61,7 +61,7 @@
   "noise_offset_type": "Original",
   "num_cpu_threads_per_process": 2,
   "optimizer": "Prodigy",
-  "optimizer_args": "scale_parameter=False relative_step=False warmup_init=False",
+  "optimizer_args": "",
   "output_dir": "/mnt/workspace/model",
   "output_name": "glut",
   "persistent_data_loader_workers": false,
