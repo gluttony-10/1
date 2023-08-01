@@ -11,7 +11,7 @@
   "cache_latents_to_disk": false,
   "caption_dropout_every_n_epochs": 0.0,
   "caption_dropout_rate": 0,
-  "caption_extension": "",
+  "caption_extension": ".txt",
   "clip_skip": "1",
   "color_aug": false,
   "conv_alpha": 1,
