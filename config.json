@@ -290,7 +290,7 @@
     "ad_save_images_before": false,
     "ad_only_seleted_scripts": true,
     "ad_script_names": "dynamic_prompting,dynamic_thresholding,wildcard_recursive,wildcards",
-    "ad_bbox_sortby": "None",
+    "ad_bbox_sortby": "Position (left to right)",
     "ui_reorder_list": [
         "inpaint",
         "sampler",
@@ -396,5 +396,14 @@
     "tac_showExtraNetworkPreviews": true,
     "control_net_unit_count": 6,
     "controlnet_ignore_noninpaint_mask": false,
-    "image_browser_height_auto": false
+    "image_browser_height_auto": false,
+    "animatediff_model_path": "/mnt/workspace/stable-diffusion-webui/model/animatediff",
+    "animatediff_optimize_gif_palette": true,
+    "animatediff_optimize_gif_gifsicle": true,
+    "animatediff_save_to_custom": false,
+    "animatediff_xformers": "Optimize attention layers with xformers",
+    "inpaint_anything_save_folder": "inpaint-anything",
+    "inpaint_anything_sam_oncpu": false,
+    "inpaint_anything_offline_inpainting": false,
+    "inpaint_anything_padding_fill": 127
 }
