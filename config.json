@@ -397,7 +397,7 @@
     "control_net_unit_count": 6,
     "controlnet_ignore_noninpaint_mask": false,
     "image_browser_height_auto": false,
-    "animatediff_model_path": "/mnt/workspace/stable-diffusion-webui/model/animatediff",
+    "animatediff_model_path": "/mnt/workspace/stable-diffusion-webui/models/animatediff",
     "animatediff_optimize_gif_palette": true,
     "animatediff_optimize_gif_gifsicle": true,
     "animatediff_save_to_custom": false,
@@ -405,5 +405,8 @@
     "inpaint_anything_save_folder": "inpaint-anything",
     "inpaint_anything_sam_oncpu": false,
     "inpaint_anything_offline_inpainting": false,
-    "inpaint_anything_padding_fill": 127
+    "inpaint_anything_padding_fill": 127,
+    "tac_includeEmbeddingsInNormalResults": false,
+    "tac_modelSortOrder": "Name",
+    "tac_modelKeywordLocation": "Start of prompt"
 }
