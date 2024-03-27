@@ -1,7 +1,8 @@
 ﻿name,prompt,negative_prompt
 defult," <lora:lcm-lora-sdv1-5:0.3>,best quality, ultra high res, ","(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glan,"
 test,"best quality, ultra high res, 1girl, looking at viewer, facing front","badhandv4, putnegative, verybadimagenegative_v1.3, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glan,"
-Glut,"purple hair,black cat ears,sparkle eyes,black cat doll,",""
+glut,"purple hair,black cat ears,sparkle eyes,black cat doll,",""
+licky,"1girl,cherry blossoms,hair flower,hair ribbon,cat ears,animal ear fluff,blue eyes,grey hair,short hair,bangs,hair between eyes,eyebrows visible through hair,blush,closed mouth,smile,neck ribbon,white sleeveless dress,crease,frilled_collar,detached_sleeves,flat chest,",""
 PRT,"long blonde hair,(one side up:1.2), blue eyes, detailed eyes, large breasts",""
 mazi,"medium hair, hairclip, swept bangs,(french braid:1.2), silver hair, white hair, purple eyes, white hair ornament, flat chest, long sleeves, sharp eyes",""
 yexiaojie,"twintails,(lower abdomen tattoo),(long hair, blue hair), blunt bangs, heart hair ornament, pink eyes, heart-shaped eyes",""
